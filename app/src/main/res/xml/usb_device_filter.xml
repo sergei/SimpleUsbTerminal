@@ -42,4 +42,9 @@
 
     <!-- CDC driver -->
     <usb-device vendor-id="5840" product-id="2174" /> <!-- 0x16d0 / 0x087e: Digispark -->
+
+    <!-- CDC driver -->
+    <usb-device vendor-id="1155" product-id="41495" /><!-- 0x0483 / 0xa217: ST CDC (Yacht Devices Ltd.) -->
+
+
 </resources>
